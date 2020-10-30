@@ -1,0 +1,8 @@
+[
+	{
+	"CT":{"search":"DealerTrack Brasil", "expectedPage":"https://www.dealertrack.com.br/#/home"}
+	},
+	{
+	"CT":{"search":"DealerTrack Brasil", "expectedPage":"https://www.dealertrack.com.br"}
+	}
+]
